@@ -1,6 +1,6 @@
 {
-  "F_Version" : 1.1,
-  "F_Url" :"https://riezcomp.github.io/testing/firmware_1.1.ino.bin",
+  "F_Version" : 1.2,
+  "F_Url" :"https://riezcomp.github.io/testing/firmware_1.2.ino.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://riezcomp.github.io/testing/spiffs_1.0.spiffs.bin"
 }
