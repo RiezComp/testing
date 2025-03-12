@@ -1,6 +1,6 @@
 {
   "F_Version" : 1.0,
-  "F_Url" :"https://riezcomp.github.io/WIMBRO/firmware_1.0.ino.bin",
+  "F_Url" :"https://riezcomp.github.io/testing/firmware_1.0.ino.bin",
   "S_Version" : 1.0,
-  "S_Url" :"https://riezcomp.github.io/BTS001/spiffs_1.0.spiffs.bin"
+  "S_Url" :"https://riezcomp.github.io/testing/spiffs_1.0.spiffs.bin"
 }
